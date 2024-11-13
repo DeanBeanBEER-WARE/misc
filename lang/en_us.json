@@ -1,0 +1,17 @@
+{
+  "block.mekanismmatter.liquid_universal_matter": "Liquid Universal Matter",
+  "itemGroup.tabmekanism_matter": "Mekanism Matter",
+  "item.mekanismmatter.pattern_storage": "Pattern Storage",
+  "item.mekanismmatter.universal_mass": "Universal Mass",
+  "item.mekanismmatter.scrap": "Scrap",
+  "block.mekanismmatter.matter_fabricator": "Matter Fabricator",
+  "block.mekanismmatter.matter_analyzer": "Matter Analyzer",
+  "block.mekanismmatter.scanner": "Scanner",
+  "block.mekanismmatter.antimatter_synthesizer": "Antimatter Synthesizer",
+  "fluid.mekanismmatter.liquid_universal_matter": "Liquid Universal Matter",
+  "block.mekanismmatter.matter_synthesizer": "Matter Synthesizer",
+  "item.mekanismmatter.scrapbox": "§6Scrapbox",
+  "block.mekanismmatter.recycler": "Recycler",
+  "block.mekanismmatter.creative_generator": "Creative Generator",
+  "item.mekanismmatter.liquid_universal_matter_bucket": "Liquid Universal Matter Bucket"
+}
