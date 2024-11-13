@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mekanismmatter:matter_fabricator",
+    "mekanismmatter:recycler",
+    "mekanismmatter:scanner",
+    "mekanismmatter:matter_analyzer",
+    "mekanismmatter:matter_synthesizer",
+    "mekanismmatter:antimatter_synthesizer"
+  ]
+}
